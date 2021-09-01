@@ -2,7 +2,7 @@
 
 ## Connect with me on Linkedin   &nbsp;&nbsp;   [<img src='linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tuna-%C3%BCnsal-183679167)
 
-## Read my blogs on Medium  &nbsp;&nbsp;  [<img src='medium1.png' alt='linkedin' height='50'>](https://ezdream.medium.com/)
+## Read my blogs on Medium  &nbsp;&nbsp;  [<img src='medium1.png' alt='linkedin' height='200'>](https://ezdream.medium.com/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![android-google](https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif)
 
