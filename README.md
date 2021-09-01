@@ -4,7 +4,7 @@
 
 # Read my blogs on Medium  &nbsp;&nbsp;  [<img src='Medium-logo-2020-640x480.png' alt='linkedin' height='60'>](https://ezdream.medium.com/)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' alt='linkedin' height='360'>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' alt='linkedin' height='360'>
 
 
 
