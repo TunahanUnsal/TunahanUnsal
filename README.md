@@ -4,8 +4,7 @@
 
 ## ![android-google](https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif)
 
-![output-onlinepngtools](https://user-images.githubusercontent.com/50106187/131629192-8d1ae180-7754-4e29-971f-19a415e36829.png)
-![image](https://user-images.githubusercontent.com/50106187/131629112-bf0338df-26ce-47c0-b557-1987d5b58ccd.png)
+![output-onlinepngtools (1)](https://user-images.githubusercontent.com/50106187/131629385-c969e8aa-aed2-4657-96b1-2f7724e5055e.png) ![image](https://user-images.githubusercontent.com/50106187/131629112-bf0338df-26ce-47c0-b557-1987d5b58ccd.png)
 
 
 
