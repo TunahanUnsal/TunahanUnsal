@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="right">
   <img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' alt='linkedin' height='360'>
 </p>
 
