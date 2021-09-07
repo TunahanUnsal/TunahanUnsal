@@ -6,8 +6,8 @@
 
 <p align="right">
   <img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' alt='linkedin' height='360'>
-
- align="left">
+</p>
+<p align="left">
 <a href="https://linkedin.com/in/tuna-ünsal-183679167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuna-ünsal-183679167" height="30" width="40" /></a>
 <a href="https://instagram.com/tunnsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunnsl" height="30" width="40" /></a>
 <a href="https://medium.com/@ezdream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ezdream" height="30" width="40" /></a>
