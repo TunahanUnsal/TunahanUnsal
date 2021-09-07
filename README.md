@@ -17,11 +17,11 @@
 
 <h3 align="center">My Blogs:</h3>
 
-<a align="center" href="https://ezdream.medium.com/nas%C4%B1l-junior-android-developer-oldum-45d0e8f44bb7">Nasıl Junior Android Developer oldum?</a>
+<p align="center" href="https://ezdream.medium.com/nas%C4%B1l-junior-android-developer-oldum-45d0e8f44bb7">Nasıl Junior Android Developer oldum?</p>
 <br></br>
-<a align="center" href="https://ezdream.medium.com/uzman%C4%B1ndan-olmayan-tavsiyeler-part-1-29f9813d8e6a">Uzmanından Olmayan Tavsiyeler(Part 1)</a>
+<p align="center" href="https://ezdream.medium.com/uzman%C4%B1ndan-olmayan-tavsiyeler-part-1-29f9813d8e6a">Uzmanından Olmayan Tavsiyeler(Part 1)</p>
 <br></br>
-<a align="center" href="https://ezdream.medium.com/ar-ge-de-1-y%C4%B1l-3a654b31c1b6">Ar-Ge'de 1 Yıl</a>
+<p align="center" href="https://ezdream.medium.com/ar-ge-de-1-y%C4%B1l-3a654b31c1b6">Ar-Ge'de 1 Yıl</p>
 
 
 
