@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">An Android Native Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [AYPRO](https://www.aypro.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
