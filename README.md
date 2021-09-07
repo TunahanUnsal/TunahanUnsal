@@ -3,6 +3,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+
 <p align="left">
 <a href="https://linkedin.com/in/tuna-ünsal-183679167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuna-ünsal-183679167" height="30" width="40" /></a>
 <a href="https://instagram.com/tunnsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunnsl" height="30" width="40" /></a>
@@ -19,4 +24,6 @@
 <a href="https://ezdream.medium.com/uzman%C4%B1ndan-olmayan-tavsiyeler-part-1-29f9813d8e6a">Uzmanından Olmayan Tavsiyeler(Part 1)</a>
 <br></br>
 <a href="https://ezdream.medium.com/ar-ge-de-1-y%C4%B1l-3a654b31c1b6">Ar-Ge'de 1 Yıl</a>
+
+
 
