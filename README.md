@@ -4,6 +4,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
+
+<i class="fa fa-btc"></i> <span id="counter"></span> 
+<span id="btcvalue"> 
+    ~ $100.34 <span class="slight"><i class="fa fa-play fa-rotate-270 text-success"> </i> 0.000000690BTC</span>
+</span>
+
 <p align="right">
   <img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' alt='linkedin' height='360'>
 </p>
