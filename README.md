@@ -29,9 +29,9 @@
     <a align="center" href="https://ezdream.medium.com/ar-ge-de-1-y%C4%B1l-3a654b31c1b6">Ar-Ge'de 1 Yıl</a>
 </div>
 
-<div align = "center">
+<p align = "center">
     <img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' height='180'>
-</div>
+</p>
 
 
 
