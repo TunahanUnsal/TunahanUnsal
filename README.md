@@ -30,7 +30,7 @@
 </div>
 
 <h3 align = "center">
-    <img src='https://user-images.githubusercontent.com/50106187/131627871-b15007c6-2bba-4305-8d62-50d016315f7c.gif' height='180'>
+   ![image](https://user-images.githubusercontent.com/50106187/132529583-f2c9ea8a-7e7b-4ced-980c-525d1b34625c.png)
 </h3>
 
 
