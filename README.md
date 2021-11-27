@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
-<h3 align="center">An Android Native Developer from Turkey</h3>
+<h3 align="center">R&D Engineer (Mobile Development) from Turkey</h3>
 
 
 <h3 align="center">Connect with me</h3>
