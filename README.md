@@ -29,8 +29,6 @@
     <br></br>
     <a align="center" href="https://ezdream.medium.com/i%CC%87lk-i%C5%9F-mi-cb5aaf40f3cd">İlk iş mi?</a>
 </div>
-
-<br></br>
 <br></br>
 <p align = "center">
     <img src='https://user-images.githubusercontent.com/50106187/174619192-4379af8f-a7b1-4c20-a47c-9cc89555e2ee.gif' height='180'>
