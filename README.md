@@ -31,7 +31,7 @@
 </div>
 <br></br>
 <p align = "center">
-    <img src='https://user-images.githubusercontent.com/50106187/174619192-4379af8f-a7b1-4c20-a47c-9cc89555e2ee.gif' height='180'>
+    <img src='https://user-images.githubusercontent.com/50106187/174619974-f551eeca-6a82-46fc-acac-e966fc1d331e.gif' height='180'>
 </div>
 
    
