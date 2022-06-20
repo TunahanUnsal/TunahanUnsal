@@ -31,8 +31,5 @@
 </div>
 <br></br>
 <p align = "center">
-    <img src='https://user-images.githubusercontent.com/50106187/174619974-f551eeca-6a82-46fc-acac-e966fc1d331e.gif' height='180'>
+    <img src='https://user-images.githubusercontent.com/50106187/174623373-f58465ed-d019-4d79-912c-24155954dbb6.gif' height='180'>
 </div>
-
-   
-
