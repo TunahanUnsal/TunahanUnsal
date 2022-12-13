@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
-<h3 align="center">Mobile Developer at EYAP</h3>
+<h3 align="center">Software Developer at ING</h3>
 
 
 <h3 align="center">Connect with me</h3>
