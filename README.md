@@ -25,6 +25,10 @@
     <a align="center" href="https://ezdream.medium.com/ar-ge-de-1-y%C4%B1l-3a654b31c1b6">Ar-Ge'de 1 Yıl</a>
     <br></br>
     <a align="center" href="https://ezdream.medium.com/i%CC%87lk-i%C5%9F-mi-cb5aaf40f3cd">İlk iş mi?</a>
+    <br></br>
+    <a align="center" href="https://medium.com/@ezdream/android-developer-level-up-fc0b7049156b">Android Developer Level Up</a>
+    <br></br>
+    <a align="center" href="https://medium.com/@ezdream/i%CC%87%C5%9F-de%C4%9Fi%C5%9Ftirme-s%C3%BCreci-3165fd4f8f04">İş Değiştirme Süreci</a>
 </div>
 <br></br>
 <p align = "center">
