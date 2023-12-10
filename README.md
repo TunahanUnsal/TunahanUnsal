@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">Android Developer at ING</h3>
-![pngegg]()
-
 
 <h3 align="center">My Play Store Page</h3>
 
