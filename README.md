@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tuna</h1>
-<h3 align="center">Android Developer at ING</h3>
-
 <h3 align="center">My Play Store Page</h3>
 
 <p align="center">
