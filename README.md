@@ -4,7 +4,7 @@
 <h3 align="center">My Play Store Page</h3>
 
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=8538488561363184650" target="blank"><img align="center" src="https://github.com/TunahanUnsal/TunahanUnsal/assets/50106187/2803d331-da4d-4318-9d5c-24ad2e35fea4" alt="tuna-ünsal-183679167" height="90" width="200" /></a></p>
+<a href="https://play.google.com/store/apps/dev?id=8538488561363184650" target="blank"><img align="center" src="https://github.com/TunahanUnsal/TunahanUnsal/assets/50106187/2803d331-da4d-4318-9d5c-24ad2e35fea4" alt="tuna-ünsal-183679167" height="70" width="200" /></a></p>
 
 
 <h3 align="center">Connect with me</h3>
