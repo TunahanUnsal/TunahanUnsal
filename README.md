@@ -14,6 +14,8 @@
 <h3 align="center">My Blogs</h3>
 
 <div align="center">
+   <a align="center" href="https://medium.com/p/06163f8bec8d">Asla “ben oldum” olamamak hakkında</a>
+    <br></br>
    <a align="center" href="https://medium.com/@ezdream/android-baştan-sona-detaylı-network-mimarisi-14b15ae2ffc8">Android Baştan Sona Detaylı Network Mimarisi</a>
     <br></br>
    <a align="center" href="https://ezdream.medium.com/nas%C4%B1l-junior-android-developer-oldum-45d0e8f44bb7">Nasıl Junior Android Developer oldum?</a>
